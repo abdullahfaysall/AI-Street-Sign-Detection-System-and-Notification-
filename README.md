@@ -50,23 +50,23 @@ This project introduces an intelligent street sign detection and alert system de
 
 ---
 💡 Use Cases
-Smart vehicle safety systems
+- Smart vehicle safety systems
 
-Public transportation upgrades
+- Public transportation upgrades
 
-Driver training tools in schools
+- Driver training tools in schools
 
-Assistive driving for visually impaired individuals
+- Assistive driving for visually impaired individuals
 
-Smart city infrastructure integration
+- Smart city infrastructure integration
 
 ---
 
 🙏 Acknowledgements
 
-Ultralytics (YOLOv8)
+- Ultralytics (YOLOv8)
 
-PyQt Community
+- PyQt Community
 
-OpenCV Contributors
+- OpenCV Contributors
 
