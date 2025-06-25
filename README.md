@@ -45,7 +45,7 @@ This project introduces an intelligent street sign detection and alert system de
 
 ## 📷 Sample Screenshot
 
-![Detection Demo](images/test1.png)
+![Detection Demo](images/val_batch0_labels.png)
 
 
 ---
